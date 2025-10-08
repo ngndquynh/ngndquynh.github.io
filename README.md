@@ -6,4 +6,7 @@
 <br>
 📬 **Contact** <br>
 ✉️ Email: [dquynhngn2606@gmail.com](mailto:dquynhngn2606@gmail.com) <br>
-🐙 GitHub: [github.com/ngndquynh](https://github.com/ngndquynh)
+💼 LinkedIn: [linkedin.com/in/ngndquynh](https://www.linkedin.com/in/ngndquynh/) <br>
+🐙 GitHub: [github.com/ngndquynh](https://github.com/ngndquynh) <br>
+<br>
+🔗 Visit my portfolio: [https://ngndquynh.github.io](https://ngndquynh.github.io)
