@@ -1,0 +1,81 @@
+@import url('[https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap](https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap)');
+
+body {
+font-family: 'Inter', sans-serif;
+background-color: #f9fdf9;
+color: #333;
+margin: 0;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.container {
+text-align: center;
+}
+
+.card {
+background-color: #ffffff;
+padding: 2.5rem;
+border-radius: 20px;
+box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+max-width: 380px;
+width: 90%;
+transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+transform: translateY(-4px);
+box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.avatar {
+width: 120px;
+height: 120px;
+border-radius: 50%;
+object-fit: cover;
+margin-bottom: 1rem;
+border: 3px solid #b6e388; /* xanh bơ */
+transition: 0.3s;
+}
+
+.avatar:hover {
+transform: scale(1.05);
+box-shadow: 0 0 15px rgba(182, 227, 136, 0.6);
+}
+
+h1 {
+margin: 0.5rem 0 0.2rem;
+font-size: 1.8rem;
+color: #4a4a4a;
+}
+
+h2 {
+font-weight: 500;
+font-size: 1rem;
+color: #5c8d5a; /* xanh bơ đậm */
+margin-bottom: 0.3rem;
+}
+
+.school {
+font-size: 0.9rem;
+color: #666;
+margin-bottom: 1.5rem;
+}
+
+.contact a {
+display: inline-block;
+margin: 0.3rem 0.5rem;
+padding: 0.4rem 0.8rem;
+background-color: #b6e388;
+color: #1f3d1f;
+border-radius: 8px;
+text-decoration: none;
+font-weight: 600;
+transition: all 0.2s ease;
+}
+
+.contact a:hover {
+background-color: #a3d876;
+transform: scale(1.
