@@ -78,4 +78,5 @@ transition: all 0.2s ease;
 
 .contact a:hover {
 background-color: #a3d876;
-transform: scale(1.
+transform: scale(1.05);
+}
