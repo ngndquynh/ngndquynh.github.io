@@ -9,4 +9,4 @@
 💼 LinkedIn: [linkedin.com/in/ngndquynh](https://www.linkedin.com/in/ngndquynh/) <br>
 🐙 GitHub: [github.com/ngndquynh](https://github.com/ngndquynh) <br>
 <br>
-🔗 **Visit my portfolio:** [ngndquynh.github.io](ngndquynh.github.io)
+🔗 **Visit my portfolio:** [ngndquynh.github.io](https://ngndquynh.github.io)
